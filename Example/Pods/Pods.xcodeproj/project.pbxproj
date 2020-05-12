@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		15B50A6DBE305D34777D7A9FBDACBB8F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C4F2FF339CC9B35480C893D918B618 /* Constants.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		16D62E492229DFC939DCAD7CD4DD4EDE /* SectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59E8E29B7E6C54D50D5AC368160FF89 /* SectionHeaderView.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		1864EE9D3EDB0C78FBB4CBB32DF269C7 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044A9F3FF241F14A714EF63399C31578 /* Utils.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		1DA5F6EB3BD21254F07AF960EE8F5E10 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFC2144261DE374550BA2B785293F17 /* Model.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		26CFAF841E1DE65AD8CA73A99B070353 /* CAHelpViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = C330DB50A0C8F0D708E502D4C4642324 /* CAHelpViewDataSource.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		2AA1D0CFEB7BA683F7C53F9169306CB5 /* CAHelpView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 77F1B62332D590BE88CA845FD535577C /* CAHelpView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3275AE2409C25093D79B79666C046047 /* SectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D482435DBD3039D26F5F1078D774CCD /* SectionCell.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		5958DD032B4E8F99BA308C6BAF01868B /* CAHelpView.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E57B317A09DBBCB08DF75385BCB9A647 /* CAHelpView.storyboard */; };
-		64D93F58C9EDB794E987C1CE1857B949 /* CAHelpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82718B38979E0E4060B5F9071416E431 /* CAHelpViewController.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		11EB525FD69A459F832F136A7D6AD1F1 /* HelpCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECFDF1AF62BA5A005171920FED44023 /* HelpCell.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		24E7D381DC852C5DF2F2A436E25679D7 /* CAHelpDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCBDE8B3BFEA7325440B9CA937CAC7D4 /* CAHelpDetailViewController.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		2AA1D0CFEB7BA683F7C53F9169306CB5 /* CAHelpView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B267E3D4EA08DE2C530E2AC9FC5CA721 /* CAHelpView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		440AE89C6CA7585579158FE53DB9B5CA /* CAHelpViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD13C7C03EA39C24194D228AC84AE90F /* CAHelpViewDataSource.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		55383DA2EC124FE0BA0C66CEDB935B14 /* CAHelpView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 028C08CC9E41D1AB5052CFCC5F8B301A /* CAHelpView-dummy.m */; };
+		5958DD032B4E8F99BA308C6BAF01868B /* CAHelpView.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 088BC3E741028B21AEAFE110C34D5CE4 /* CAHelpView.storyboard */; };
+		6FE781AE47987D2F097976960F13E23D /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0477A0CE02B57F58158439674C0697 /* Utils.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		7816C67D022B87F8B632FB6AAEBB6BBC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		7ECA5B6A0A60193BF68D7A3632899360 /* Pods-PodTeest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FE7730BA2A63A801876A681764545159 /* Pods-PodTeest-dummy.m */; };
-		8182869129389552531F8AFDCAE28357 /* CAHelpDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2B3C994E5C55E51BE7643F464C257F /* CAHelpDetailViewController.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
-		8185D057058FDF6D71C1564C124A7894 /* CAHelpView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C35E2BE7088BB66003B240351D393635 /* CAHelpView-dummy.m */; };
+		A490F24360711A8EF5E0B09E43E00DE9 /* SectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0CB08BCA53FCCC064C8E840ED5C8A86 /* SectionHeaderView.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		B08B1150215198911C9E20A87FA386B2 /* CAHelpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB850585F5C29B2501913411E7425CD /* CAHelpViewController.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		B5807D2FBA3ED6282D3CE4C5368273B5 /* SectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE0BD699FC2B19C3E2B83FB6F883882 /* SectionCell.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		BA5BD9C943BCC6D962E84BD944576539 /* Pods-PodTeest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F2A0D35D43A4975874DD7B5A02AB5C7F /* Pods-PodTeest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D5EF82C8E4BBFB7EF9CF355296B41E5B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB66D3CEE1C5B9D7FFBAAE4EFE6DED9 /* Model.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
+		E5C608A288079481388B90FF157A31AE /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4478EF6767E39CF5849906853581F62 /* Constants.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		EBF3FB012FB6CC73935032CB27BA8B36 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		EE226D8D0C93F8289B74A110BBFBA00D /* HelpCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7A40AC4755B2B13ACC3F93FA34B4BE /* HelpCell.swift */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,35 +36,34 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		044A9F3FF241F14A714EF63399C31578 /* Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		028C08CC9E41D1AB5052CFCC5F8B301A /* CAHelpView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CAHelpView-dummy.m"; sourceTree = "<group>"; };
+		088BC3E741028B21AEAFE110C34D5CE4 /* CAHelpView.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = CAHelpView.storyboard; path = CAHelpView/Views/CAHelpView.storyboard; sourceTree = "<group>"; };
+		1DC29BD5449B4B67E0F26673485B7EDF /* CAHelpView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CAHelpView.xcconfig; sourceTree = "<group>"; };
+		2AE0BD699FC2B19C3E2B83FB6F883882 /* SectionCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SectionCell.swift; path = CAHelpView/Views/SectionCell.swift; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3D0B0782894E64E9CBB73B01D4E41AA0 /* Pods-PodTeest-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PodTeest-frameworks.sh"; sourceTree = "<group>"; };
 		412A98B738B29B7C809BCCE99AEB35CC /* CAHelpView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CAHelpView.framework; path = CAHelpView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		42BBC216B7E9D25819E232395129BBBC /* CAHelpView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CAHelpView.modulemap; sourceTree = "<group>"; };
 		45876F10139A75A24DB5B359A3527FE3 /* Pods_PodTeest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PodTeest.framework; path = "Pods-PodTeest.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C1CECAC193C35AAEA3180B512458123 /* Pods-PodTeest-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PodTeest-Info.plist"; sourceTree = "<group>"; };
-		4FFC2144261DE374550BA2B785293F17 /* Model.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		4ECFDF1AF62BA5A005171920FED44023 /* HelpCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HelpCell.swift; path = CAHelpView/Views/HelpCell.swift; sourceTree = "<group>"; };
 		506C748679E62E5463147D7B49E4C671 /* Pods-PodTeest-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PodTeest-acknowledgements.markdown"; sourceTree = "<group>"; };
-		51645C0E384BBEE0AC0D3895208580E9 /* CAHelpView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CAHelpView.xcconfig; sourceTree = "<group>"; };
 		54D9888FECFFE63933681380443CDF45 /* Pods-PodTeest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-PodTeest.modulemap"; sourceTree = "<group>"; };
-		5AEC2730F23FD02F152714647730B897 /* CAHelpView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CAHelpView-Info.plist"; sourceTree = "<group>"; };
-		5C7A40AC4755B2B13ACC3F93FA34B4BE /* HelpCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = HelpCell.swift; sourceTree = "<group>"; };
-		6D482435DBD3039D26F5F1078D774CCD /* SectionCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SectionCell.swift; sourceTree = "<group>"; };
-		77F1B62332D590BE88CA845FD535577C /* CAHelpView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CAHelpView-umbrella.h"; sourceTree = "<group>"; };
-		82718B38979E0E4060B5F9071416E431 /* CAHelpViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CAHelpViewController.swift; sourceTree = "<group>"; };
-		8C1E131C64C21B083AEC7AEBFBB4C59E /* CAHelpView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = CAHelpView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5E0477A0CE02B57F58158439674C0697 /* Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Utils.swift; path = CAHelpView/Utils/Utils.swift; sourceTree = "<group>"; };
+		87C2E0A0FAE112B67BDF83D517BF2CE7 /* CAHelpView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CAHelpView-prefix.pch"; sourceTree = "<group>"; };
+		8BB850585F5C29B2501913411E7425CD /* CAHelpViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CAHelpViewController.swift; path = CAHelpView/ViewControllers/CAHelpViewController.swift; sourceTree = "<group>"; };
+		8EB66D3CEE1C5B9D7FFBAAE4EFE6DED9 /* Model.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Model.swift; path = CAHelpView/Model/Model.swift; sourceTree = "<group>"; };
 		98F3BFF0738136E2C8EEFA8AD577FE4A /* Pods-PodTeest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PodTeest.debug.xcconfig"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9F2B3C994E5C55E51BE7643F464C257F /* CAHelpDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CAHelpDetailViewController.swift; sourceTree = "<group>"; };
-		A0C4F2FF339CC9B35480C893D918B618 /* Constants.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		C2A0A4093D7980619A4116236A7F8C4D /* CAHelpView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CAHelpView-prefix.pch"; sourceTree = "<group>"; };
-		C330DB50A0C8F0D708E502D4C4642324 /* CAHelpViewDataSource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CAHelpViewDataSource.swift; sourceTree = "<group>"; };
-		C35E2BE7088BB66003B240351D393635 /* CAHelpView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CAHelpView-dummy.m"; sourceTree = "<group>"; };
+		B267E3D4EA08DE2C530E2AC9FC5CA721 /* CAHelpView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CAHelpView-umbrella.h"; sourceTree = "<group>"; };
+		BCBDE8B3BFEA7325440B9CA937CAC7D4 /* CAHelpDetailViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CAHelpDetailViewController.swift; path = CAHelpView/ViewControllers/CAHelpDetailViewController.swift; sourceTree = "<group>"; };
+		BF98F3073933122349FAE6B20C4F0574 /* CAHelpView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "CAHelpView-Info.plist"; sourceTree = "<group>"; };
 		C57491BA6A1DCBA904B8923151E63B35 /* Pods-PodTeest-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PodTeest-acknowledgements.plist"; sourceTree = "<group>"; };
-		C59E8E29B7E6C54D50D5AC368160FF89 /* SectionHeaderView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SectionHeaderView.swift; sourceTree = "<group>"; };
-		E017EC97FD411C59FD168BDACBA75EE8 /* CAHelpView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CAHelpView.modulemap; sourceTree = "<group>"; };
-		E57B317A09DBBCB08DF75385BCB9A647 /* CAHelpView.storyboard */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.storyboard; name = CAHelpView.storyboard; path = CAHelpView/Views/CAHelpView.storyboard; sourceTree = "<group>"; };
+		E0CB08BCA53FCCC064C8E840ED5C8A86 /* SectionHeaderView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SectionHeaderView.swift; path = CAHelpView/Views/SectionHeaderView.swift; sourceTree = "<group>"; };
+		E4478EF6767E39CF5849906853581F62 /* Constants.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Constants.swift; path = CAHelpView/Constants/Constants.swift; sourceTree = "<group>"; };
 		EF20A18908388235AE51275F88ED3709 /* Pods-PodTeest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PodTeest.release.xcconfig"; sourceTree = "<group>"; };
 		F2A0D35D43A4975874DD7B5A02AB5C7F /* Pods-PodTeest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PodTeest-umbrella.h"; sourceTree = "<group>"; };
+		FD13C7C03EA39C24194D228AC84AE90F /* CAHelpViewDataSource.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CAHelpViewDataSource.swift; path = CAHelpView/ViewControllers/CAHelpViewDataSource.swift; sourceTree = "<group>"; };
 		FE7730BA2A63A801876A681764545159 /* Pods-PodTeest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PodTeest-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -96,70 +95,39 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		0DDFBFD9A09BFB735364B6F2ACB8F655 /* Development Pods */ = {
+		15D36A41471EA2D9B77B182343821297 /* CAHelpView */ = {
 			isa = PBXGroup;
 			children = (
-				65219F2DE98B2B880C605056DBFF6137 /* CAHelpView */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		321F2206DAE8B4C881ACC6C49B420015 /* Views */ = {
-			isa = PBXGroup;
-			children = (
-				5C7A40AC4755B2B13ACC3F93FA34B4BE /* HelpCell.swift */,
-				6D482435DBD3039D26F5F1078D774CCD /* SectionCell.swift */,
-				C59E8E29B7E6C54D50D5AC368160FF89 /* SectionHeaderView.swift */,
-			);
-			name = Views;
-			path = CAHelpView/Views;
-			sourceTree = "<group>";
-		};
-		5E12B682A8A70743903086BF77394846 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				8C1E131C64C21B083AEC7AEBFBB4C59E /* CAHelpView.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		64EB69FFA27B9585218BFED7C64F8B3E /* Utils */ = {
-			isa = PBXGroup;
-			children = (
-				044A9F3FF241F14A714EF63399C31578 /* Utils.swift */,
-			);
-			name = Utils;
-			path = CAHelpView/Utils;
-			sourceTree = "<group>";
-		};
-		65219F2DE98B2B880C605056DBFF6137 /* CAHelpView */ = {
-			isa = PBXGroup;
-			children = (
-				B8AA42B85BA112BDFBAC4B34548E5830 /* Constants */,
-				7C98EE319EDA8581EBE36BBC63A69215 /* Model */,
-				5E12B682A8A70743903086BF77394846 /* Pod */,
-				D830B5F04A4E6FF95BFB8C6CC1F8C5DA /* Resources */,
-				68D3D19A31C716F950DD900055C839D9 /* Support Files */,
-				64EB69FFA27B9585218BFED7C64F8B3E /* Utils */,
-				7E8242F8E76BFF16C34471651C849C96 /* ViewControllers */,
-				321F2206DAE8B4C881ACC6C49B420015 /* Views */,
+				BCBDE8B3BFEA7325440B9CA937CAC7D4 /* CAHelpDetailViewController.swift */,
+				8BB850585F5C29B2501913411E7425CD /* CAHelpViewController.swift */,
+				FD13C7C03EA39C24194D228AC84AE90F /* CAHelpViewDataSource.swift */,
+				E4478EF6767E39CF5849906853581F62 /* Constants.swift */,
+				4ECFDF1AF62BA5A005171920FED44023 /* HelpCell.swift */,
+				8EB66D3CEE1C5B9D7FFBAAE4EFE6DED9 /* Model.swift */,
+				2AE0BD699FC2B19C3E2B83FB6F883882 /* SectionCell.swift */,
+				E0CB08BCA53FCCC064C8E840ED5C8A86 /* SectionHeaderView.swift */,
+				5E0477A0CE02B57F58158439674C0697 /* Utils.swift */,
+				6A5A9F9904C3236D032B076A145B46F9 /* Resources */,
+				E4246138F0C3E11AEB6408F0A6994CBF /* Support Files */,
 			);
 			name = CAHelpView;
-			path = /Users/bilalmustafa/Documents/Libraries/CAHelpView;
-			sourceTree = "<absolute>";
+			path = CAHelpView;
+			sourceTree = "<group>";
 		};
-		68D3D19A31C716F950DD900055C839D9 /* Support Files */ = {
+		571F2F5EBCF75E26305F72788E3C20C5 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				E017EC97FD411C59FD168BDACBA75EE8 /* CAHelpView.modulemap */,
-				51645C0E384BBEE0AC0D3895208580E9 /* CAHelpView.xcconfig */,
-				C35E2BE7088BB66003B240351D393635 /* CAHelpView-dummy.m */,
-				5AEC2730F23FD02F152714647730B897 /* CAHelpView-Info.plist */,
-				C2A0A4093D7980619A4116236A7F8C4D /* CAHelpView-prefix.pch */,
-				77F1B62332D590BE88CA845FD535577C /* CAHelpView-umbrella.h */,
+				15D36A41471EA2D9B77B182343821297 /* CAHelpView */,
 			);
-			name = "Support Files";
-			path = "../PodTeest/Pods/Target Support Files/CAHelpView";
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		6A5A9F9904C3236D032B076A145B46F9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				088BC3E741028B21AEAFE110C34D5CE4 /* CAHelpView.storyboard */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		79A90B396EDD95FE787112AC9063A0E5 /* Products */ = {
@@ -169,26 +137,6 @@
 				45876F10139A75A24DB5B359A3527FE3 /* Pods_PodTeest.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		7C98EE319EDA8581EBE36BBC63A69215 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				4FFC2144261DE374550BA2B785293F17 /* Model.swift */,
-			);
-			name = Model;
-			path = CAHelpView/Model;
-			sourceTree = "<group>";
-		};
-		7E8242F8E76BFF16C34471651C849C96 /* ViewControllers */ = {
-			isa = PBXGroup;
-			children = (
-				9F2B3C994E5C55E51BE7643F464C257F /* CAHelpDetailViewController.swift */,
-				82718B38979E0E4060B5F9071416E431 /* CAHelpViewController.swift */,
-				C330DB50A0C8F0D708E502D4C4642324 /* CAHelpViewDataSource.swift */,
-			);
-			name = ViewControllers;
-			path = CAHelpView/ViewControllers;
 			sourceTree = "<group>";
 		};
 		9C4E9AB35B2D91F8429863D5D00FE666 /* Pods-PodTeest */ = {
@@ -208,15 +156,6 @@
 			path = "Target Support Files/Pods-PodTeest";
 			sourceTree = "<group>";
 		};
-		B8AA42B85BA112BDFBAC4B34548E5830 /* Constants */ = {
-			isa = PBXGroup;
-			children = (
-				A0C4F2FF339CC9B35480C893D918B618 /* Constants.swift */,
-			);
-			name = Constants;
-			path = CAHelpView/Constants;
-			sourceTree = "<group>";
-		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -229,8 +168,8 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				0DDFBFD9A09BFB735364B6F2ACB8F655 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				571F2F5EBCF75E26305F72788E3C20C5 /* Pods */,
 				79A90B396EDD95FE787112AC9063A0E5 /* Products */,
 				0A5D81F9ECEA3AC1FA28609E0B0CC5EC /* Targets Support Files */,
 			);
@@ -244,12 +183,18 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D830B5F04A4E6FF95BFB8C6CC1F8C5DA /* Resources */ = {
+		E4246138F0C3E11AEB6408F0A6994CBF /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				E57B317A09DBBCB08DF75385BCB9A647 /* CAHelpView.storyboard */,
+				42BBC216B7E9D25819E232395129BBBC /* CAHelpView.modulemap */,
+				1DC29BD5449B4B67E0F26673485B7EDF /* CAHelpView.xcconfig */,
+				028C08CC9E41D1AB5052CFCC5F8B301A /* CAHelpView-dummy.m */,
+				BF98F3073933122349FAE6B20C4F0574 /* CAHelpView-Info.plist */,
+				87C2E0A0FAE112B67BDF83D517BF2CE7 /* CAHelpView-prefix.pch */,
+				B267E3D4EA08DE2C530E2AC9FC5CA721 /* CAHelpView-umbrella.h */,
 			);
-			name = Resources;
+			name = "Support Files";
+			path = "../Target Support Files/CAHelpView";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -298,7 +243,7 @@
 			buildConfigurationList = EC4ED1CCFDA88D4B9F9C1512EAE9E287 /* Build configuration list for PBXNativeTarget "CAHelpView" */;
 			buildPhases = (
 				B0DEBE25032256F934C744D28E85340F /* Headers */,
-				CA0335B69EF9027080A00B0425626D48 /* Sources */,
+				7A13876C952704BE36C550079205D66F /* Sources */,
 				6F797621C59D53C6A78200718782C4F8 /* Frameworks */,
 				1DD6B9DDED023CC61AFE0DB52CBD1652 /* Resources */,
 			);
@@ -366,20 +311,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CA0335B69EF9027080A00B0425626D48 /* Sources */ = {
+		7A13876C952704BE36C550079205D66F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8182869129389552531F8AFDCAE28357 /* CAHelpDetailViewController.swift in Sources */,
-				8185D057058FDF6D71C1564C124A7894 /* CAHelpView-dummy.m in Sources */,
-				64D93F58C9EDB794E987C1CE1857B949 /* CAHelpViewController.swift in Sources */,
-				26CFAF841E1DE65AD8CA73A99B070353 /* CAHelpViewDataSource.swift in Sources */,
-				15B50A6DBE305D34777D7A9FBDACBB8F /* Constants.swift in Sources */,
-				EE226D8D0C93F8289B74A110BBFBA00D /* HelpCell.swift in Sources */,
-				1DA5F6EB3BD21254F07AF960EE8F5E10 /* Model.swift in Sources */,
-				3275AE2409C25093D79B79666C046047 /* SectionCell.swift in Sources */,
-				16D62E492229DFC939DCAD7CD4DD4EDE /* SectionHeaderView.swift in Sources */,
-				1864EE9D3EDB0C78FBB4CBB32DF269C7 /* Utils.swift in Sources */,
+				24E7D381DC852C5DF2F2A436E25679D7 /* CAHelpDetailViewController.swift in Sources */,
+				55383DA2EC124FE0BA0C66CEDB935B14 /* CAHelpView-dummy.m in Sources */,
+				B08B1150215198911C9E20A87FA386B2 /* CAHelpViewController.swift in Sources */,
+				440AE89C6CA7585579158FE53DB9B5CA /* CAHelpViewDataSource.swift in Sources */,
+				E5C608A288079481388B90FF157A31AE /* Constants.swift in Sources */,
+				11EB525FD69A459F832F136A7D6AD1F1 /* HelpCell.swift in Sources */,
+				D5EF82C8E4BBFB7EF9CF355296B41E5B /* Model.swift in Sources */,
+				B5807D2FBA3ED6282D3CE4C5368273B5 /* SectionCell.swift in Sources */,
+				A490F24360711A8EF5E0B09E43E00DE9 /* SectionHeaderView.swift in Sources */,
+				6FE781AE47987D2F097976960F13E23D /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -397,7 +342,7 @@
 /* Begin XCBuildConfiguration section */
 		0BD074E0CAFDFDDE5B5FADEFD6ADD19E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 51645C0E384BBEE0AC0D3895208580E9 /* CAHelpView.xcconfig */;
+			baseConfigurationReference = 1DC29BD5449B4B67E0F26673485B7EDF /* CAHelpView.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -432,7 +377,7 @@
 		};
 		2B72943D305DE5E6388E8DCFEE24674C /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 51645C0E384BBEE0AC0D3895208580E9 /* CAHelpView.xcconfig */;
+			baseConfigurationReference = 1DC29BD5449B4B67E0F26673485B7EDF /* CAHelpView.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";

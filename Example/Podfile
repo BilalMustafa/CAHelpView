@@ -7,6 +7,6 @@ target 'PodTeest' do
 
   # Pods for PodTeest
 
-	pod 'CAHelpView', :path => '/Users/bilalmustafa/Documents/Libraries/CAHelpView'
+	pod 'CAHelpView', :git => 'https://bilalm211@bitbucket.org/contentarcadeios/cahelpview.git'
 
 end
