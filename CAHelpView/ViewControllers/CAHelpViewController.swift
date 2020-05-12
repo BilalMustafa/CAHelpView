@@ -31,8 +31,17 @@ public class CAHelpViewController: UIViewController {
         collectionView.delegate = self
         collectionView.dataSource = caHelpViewDataSource
         caHelpViewDataSource?.help = self.help
+        self.setupNavBar()
     }
     
+    
+    fileprivate func setupNavBar() {
+        if #available(iOS 13.0, *) {
+            // Do nothing
+        } else {
+            self.navigationItem.addLeftBarButtonItemWithImage(#imageLiteral(resourceName: "cross.png"), target: self, action: #selector(self.backPressed))
+        }
+    }
     
     //Mark:- Helper Functions
     private func setCAHelpData(json: [String: Any]) {
@@ -50,6 +59,10 @@ public class CAHelpViewController: UIViewController {
         let nav = UINavigationController(rootViewController: vc)
         return nav
         
+    }
+    
+    @objc func backPressed() {
+        self.dismiss(animated: true, completion: nil)
     }
 }
 

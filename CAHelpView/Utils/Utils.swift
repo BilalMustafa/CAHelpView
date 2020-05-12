@@ -21,4 +21,5 @@ class Utils: NSObject {
         let attributes = [NSAttributedString.Key.paragraphStyle : style, NSAttributedString.Key.font: font]
         return NSAttributedString(string: text, attributes: attributes)
     }
+    
 }
