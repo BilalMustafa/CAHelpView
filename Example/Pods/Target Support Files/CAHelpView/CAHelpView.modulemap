@@ -1,0 +1,6 @@
+framework module CAHelpView {
+  umbrella header "CAHelpView-umbrella.h"
+
+  export *
+  module * { export * }
+}

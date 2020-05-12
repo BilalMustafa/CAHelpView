@@ -1,0 +1,16 @@
+PODS:
+  - CAHelpView (0.0.1)
+
+DEPENDENCIES:
+  - CAHelpView (from `/Users/bilalmustafa/Documents/Libraries/CAHelpView`)
+
+EXTERNAL SOURCES:
+  CAHelpView:
+    :path: "/Users/bilalmustafa/Documents/Libraries/CAHelpView"
+
+SPEC CHECKSUMS:
+  CAHelpView: e305318352328c8d608687649f0389546d41038d
+
+PODFILE CHECKSUM: ddae6edf7408dc07449bad2878b62505613da90a
+
+COCOAPODS: 1.8.0

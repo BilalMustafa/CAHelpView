@@ -1,0 +1,207 @@
+{
+	"Design logos": [{
+		"How to add text on a logo?": ["Open any template or a logo", "Tap on the “Text” option", "Type the text", "Tap on done"]
+	}, {
+		"How to edit text?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option"]
+	}, {
+		"How to change font typeface?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Tap on font", "Swipe left and chose any font"]
+	}, {
+		"How to change the font size?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Tap on the size option", "Tap on “+” to increase the size", "Tap on “-” to decrease the size", "OR", "Swipe your finger on size scale to enhance or reduce size", "Pinch to increase or reduce the size of text"]
+	}, {
+		"How to change the text color?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Click on the color option", "Choose a color with a color picker or tap on the color palette to pick any other color."]
+	}, {
+		"How to curve text?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option.", "Click on the arc option", "Adjust the angle by dragging the scale from -50 to 50."]
+	}, {
+		"How to change the font style?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option.", "Click on the style option", "Tap B to bold text", "Tap U to underline text", "Tap I to italicize text"]
+	}, {
+		"How to apply a border to text?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Tap on the border option", "Pick any color with the color picker, or", "Select a color from the color palette"]
+	}, {
+		"How to adjust text alignment?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Click on Align", "Select left, center, or right alignment."]
+	}, {
+		"How to apply shadow?": ["Open any template or a logo", "tap on the text you wish to edit", "Tap on edit option", "Click on the shadow option", "Change the angle of shadow in left, right, up, and down directions", "Change the blur percentage of shadow", "Remove shadow color or pick one with a color picker or from the color palette", "Change the opacity of the shadow"]
+	}, {
+		"How to add text with no fill color?": ["Open any template or logo", "Tap the text", "Tap the edit option from the tool tip", "Tap the border option and select any color", "Tap the color option and select no color", "Text with no fill color is added"]
+	}, {
+		"How to change text opacity?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Tap on the opacity option", "Adjust the opacity scale by dragging it from 0 to 100%"]
+	}, {
+		"How to rotate text?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option.", "Click on the rotation option", "Adjust rotation from -360 to 360 degrees."]
+	}, {
+		"How to adjust the spacing of the text?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Tap on the spacing option", "Increase or decrease spacing by tapping + and –", "OR", "Scroll the scale with your finger"]
+	}, {
+		"How to convert the text in 3D?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Click on the 3D text option.", "Move the pointer in the box to apply the 3D effect"]
+	}, {
+		"How to adjust the position of the text?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Tap on the nudge option.", "Move the text in any direction with the right, left, up, and down direction keys.", "OR", "Move the text with your fingers and adjust it at any position"]
+	}, {
+		"How to duplicate text/sticker?": ["Open any template or logo", "Tap on the text or sticker you wish to duplicate", "Tap on “duplicate” from the tool tip", "Text/sticker is duplicated"]
+	}, {
+		"How to flip text/sticker?": ["Open any template or logo", "Tap on the text or sticker you wish to flip", "Tap on “edit” from the tool tip", "Tap on flip icon on the top bar", "Text/sticker is flipped"]
+	}, {
+		"How to delete text/sticker?": ["Open any template or logo", "Tap the text/sticker you wish to delete", "Tool tip will appear. Tap delete", "The selected text/sticker is deleted"]
+	}, {
+		"How to add a logo on a template?": ["Open any template", "Tap on the “Logo” option", "Select a logo from any category"]
+	}, {
+		"How to edit a logo?": ["Open any template", "Tap on the logo", "Click edit"]
+	}, {
+		"How to adjust logo size?": ["Open any template", "Tap on the logo", "Click edit", "Click on the size option", "Tap on the + and - to increase or decrease the size", "OR", "Swipe your finger on size scale to enhance or reduce size"]
+	}, {
+		"How to apply an overlay to a logo?": ["Open any template", "Tap on the logo", "Click edit", "Click on the overlay option", "Scroll the overlays bar and pick one."]
+	}, {
+		"How to change the color of the logo?": ["Open any template", "Tap on the logo", "Click edit", "Click on the color option", "Change the color with a color picker or select any color from the color palette."]
+	}, {
+		"How to change the opacity of the logo?": ["Open any template", "Tap on the logo", "Click edit", "Click on the opacity option", "Alter the opacity from 0 to 100%"]
+	}, {
+		"How to rotate a logo?": ["Open any template", "Tap on the logo", "Click edit", "Click on the rotation option", "Adjust the rotation from -360 to 360 degrees on the scale", "OR", "Pinch to rotate the logo in any direction"]
+	}, {
+		"How to change the position of the logo?": ["Open any template", "Tap on the logo", "Click edit", "Tap on the nudge option", "Move the logo in any direction with the right, left, up, and down direction keys", "OR", "Pinch to rotate the direction of the logo in any direction.", "Tap on logo and drag it with the finger"]
+	}, {
+		"How to add shape on a logo?": ["Open any template or logo", "Tap on the shapes icon", "Select a shape from any category"]
+	}, {
+		"How to edit shape?": ["Open any template or logo", "Tap on any shape", "Click edit"]
+	}, {
+		"How to customize shape?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on path icon", "Click customize shape"]
+	}, {
+		"How to edit points of shape with Bezier curves?": ["Open any template or logo", "Tap on any shape", "Tap on edit", "Tap on path icon", "Click customize shape button", "Select any point and choose any Bezier curve.", "Edit points as you wish", "Tap on done"]
+	}, {
+		"How to add a point on shape?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on path icon", "Click on customize shape option", "Tap on “+” option"]
+	}, {
+		"How to delete a point?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on path icon", "Click on customize shape option", "Tap on point you want to delete", "Tap on “-” option"]
+	}, {
+		"How to delete edge?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on path icon", "Click on customize shape option", "Tap on edge you want to delete", "Tap on the delete icon"]
+	}, {
+		"How to connect edges?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on path icon", "Click on customize shape option", "Tap on open end point", "Tap on connect edges icon"]
+	}, {
+		"How to apply border on a shape?": ["Open any template or logo", "Tap on any shape", "Click edit", "Click on the border icon", "Change border style", "Adjust border size", "Change the border color"]
+	}, {
+		"How to change the size of the shape?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on the size icon", "Scroll the size scale or tap + or - to decrease or increase the size.", "OR", "Pinch to increase or decrease the size"]
+	}, {
+		"How to change the color of shape?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on the color icon", "Select a color with a color picker or choose one from the color palette"]
+	}, {
+		"How to apply shadow to a shape?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on the shadow icon", "Adjust the angle of the shadow by tapping on left, right, up, and down keys.", "Alter the blur percentage of shadow", "Change the color of the shadow", "Decrease or increase the opacity of the shadow"]
+	}, {
+		"How to change the opacity of shape?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on the opacity icon", "Adjust the opacity level"]
+	}, {
+		"How to rotate a shape?": ["Open any template or logo", "Tap on any shape", "Click edit", "Tap on the rotation icon", "Rotate the shape by scrolling the rotation scale from -360 to 360 degrees."]
+	}, {
+		"How to add a background on a logo?": ["Open any template or logo", "Tap on the background icon", "Select any background from the list", "Tap on done"]
+	}, {
+		"How to add a solid color as a background?": ["Open any template or logo", "Tap on the background icon", "Tap on the color icon", "Select any color with a color picker or from the color palette.", "Tap on done"]
+	}, {
+		"How to add a gradient background?": ["Open any template or logo", "Tap on the background icon", "Tap on the gradient icon", "Pick a start color", "Pick an end color", "Tap on done"]
+	}, {
+		"How to adjust the angle of gradient background?": ["Open any template or logo", "Tap on the background option on bottom bar", "Tap gradient", "Select start and end gradient colors", "Tap on gradient angle", "Adjust the scale from 0 to 100%", "Tap done"]
+	}, {
+		"How to save a logo as a draft?": ["Open any template or a logo.", "Edit your logo on the editing screen.", "Tap on the back button from the top left corner.", "A confirmation pop up will appear; Tap on the “Yes” button."]
+	}, {
+		"How to save a logo with the background?": ["Open any template or logo", "Edit your logo", "Tap on the “Next” button on the top right", "Select \"small size (.jpg) save with background\"", "Tap on \"save in photo library\" option"]
+	}, {
+		"How to save a logo as transparent/without background in .png?": ["Open any template or logo", "Edit your logo", "Tap on the “Next” button on the top right", "Select “high resolution (.png)”", "Tap on “save in photo library option”"]
+	}, {
+		"How to share a logo?": ["Open any template or logo.", "Edit your logo.", "Tap on the “Next” button on the top right.", "Select “save with background” or “high resolution” option.", "Tap on share option."]
+	}, {
+		"How to email a logo?": ["Open any template or logo.", "Edit your logo.", "Tap on the “Next” button on the top right.", "Select “save with background” or “high resolution” option.", "Tap on “Email” option."]
+	}, {
+		"How to rearrange layers?": ["Open any template or logo.", "Tap Layers icon from the top bar.", "Press and hold to select any layer.", "Move up or down to Rearrange."]
+	}, {
+		"How to delete a layer?": ["Open any template or logo", "Tap layers’ icon from the top bar", "Tap the delete icon on any layer", "Tap yes icon", "Tap on done"]
+	}, {
+		"How to hide/unhide a layer?": ["Open any template or logo", "Tap layers’ icon from the top bar", "Tap on the hide icon to hide/unhide", "Tap on done"]
+	}, {
+		"How to reverse the changes?": ["Open any template or logo", "Edit logo", "Tap the undo icon on the top bar"]
+	}, {
+		"How to reset all changes?": ["Open any template or logo", "Edit logo", "Tap the reset all icon on the top bar", "Tap yes"]
+	}, {
+		"How to redo changes?": ["Open any template or logo", "Edit logo", "Tap the redo icon on the top bar"]
+	}, {
+		"How to remove watermark?": ["Open any template or logo", "Edit your logo", "Tap on “Next” at the top-right corner", "Tap the watermark icon", "If you’re a pro user, the watermark will be removed", "If you aren’t a pro user, upgrade to pro screen will appear", "Purchase any plan to remove watermark"]
+	}],
+	"Draft Logos": [{
+		"How to find saved drafts?": ["Open logo maker", "Click on “My Logos” at the bottom bar", "Your drafts are saved here"]
+	}, {
+		"How to edit a draft?": ["Click on “My logos” at the bottom bar", "Tap on the draft you wish to edit", "Select “Edit”", "Start editing"]
+	}, {
+		"How to duplicate a draft?": ["Click on “My logos” at the bottom bar", "Tap on the draft you wish to duplicate", "Select duplicate", "Your draft is duplicated"]
+	}, {
+		"How to delete a draft?": ["Click on “My logos” at the bottom bar", "Tap on the draft you wish to delete", "Select delete", "Your draft is deleted"]
+	}],
+	"iCloud sync": [{
+			"Who can use iCloud sync?": ["iCloud sync is accessible only to pro users.First, you have to buy a plan of logo maker, and then you will be eligible to use iCloud sync.,"]
+		},
+		{
+			"How to turn on/off iCloud sync?": ["Go to settings", "Open your profile", "Open iCloud", "Turn on or off “Logo Maker”"]
+		},
+		{
+			"How to sync a draft?": ["Open logo maker", "Tap my logos icon at the bottom bar", "Click the yellow icon on the top-right corner of your draft.", "The draft is synced."]
+		}
+	],
+	"Billing": [{
+			"How can I subscribe/purchase?": [
+				"There are a number of ways to subscribe. They are:",
+				"Option 1: Left menu",
+				"Open the logo maker app",
+				"Tap on the menu icon on the top-left",
+				"Tap on upgrade to pro",
+				"Select a plan",
+				"Click continue",
+				"Confirm purchase screen will pop-up",
+				"Enter your Apple ID password to buy the plan",
+				"Option 2: Any pro item",
+				"Open the logo maker app",
+				"Tap on any pro item, including template, overlay, or background",
+				"Upgrade to pro screen will open",
+				"Select any plan",
+				"Tap continue",
+				"Confirm purchase screen will pop-up",
+				"Enter your Apple ID password to buy the plan",
+				"Option 3: Watermark",
+				"Open any template or logo",
+				"Complete editing",
+				"Tap “Next” option on the top-right corner",
+				"Tap cross on the watermark",
+				"Upgrade to pro screen will open",
+				"Select any plan",
+				"Tap continue",
+				"Confirm purchase screen will pop-up",
+				"Enter your Apple ID password to buy the plan",
+				"Option 4: Save in .png",
+				"Open any template or logo",
+				"Complete editing",
+				"Tap “Next” option on the top-right corner",
+				"Tap on High Resolution (.png)",
+				"Upgrade to pro screen will open",
+				"Select any plan",
+				"Tap continue",
+				"Confirm purchase screen will pop-up",
+				"Enter your Apple ID password to buy the plan"
+			]
+		},
+		{
+			"How can I cancel my subscription?": ["Go to Settings > iTunes & App Store.", "Tap your Apple ID at the top of the screen.", "Tap View Apple ID. You might need to sign in or use Touch ID.", "Tap Subscriptions.", "Tap the logo maker’s subscription that you want to manage.", "If you don’t see a subscription but are still being charged, make sure you’re signed in with the correct Apple ID.", "Tap “Cancel Subscription” to cancel your subscription. If you cancel, your subscription will stop at the end of the current billing cycle."]
+		}, {
+			"How to change my subscription?": ["Go to Settings > iTunes & App Store.", "Tap your Apple ID at the top of the screen.", "Tap View Apple ID. You might need to sign in or use Touch ID.", "Tap subscriptions", "Tap the logo maker’s subscription you want to change", "Choose a different subscription option"]
+		}, {
+			"How to request a refund?": ["We do not retain any right to issue a refund for in-app purchases made on the App Store. To contact Apple is the only way to receive refunds of in-app purchases.", "The in-app purchases are automatically renewed while you make it with App Store. No amount is refundable in this scenario. Users of the app are responsible for canceling the future resumption on the App Store.", "To request a refund from Apple, you can check this article: https://support.apple.com/en-us/HT204084"]
+		}, {
+			"How to restore subscription on a new device?": ["Install and open logo maker on a new device", "Make sure you’re logged in with the same Apple ID you used for subscription previously.", "Tap menu icon on the top-left corner", "Tap the “restore purchases” option", "Subscription is restored successfully"]
+		}, {
+			"How to restore subscription on the same device?": ["Make sure you’re logged in with the same Apple ID you used for subscription previously", "Open logo maker app", "Tap menu icon on the top-left corner", "Tap the restore purchases option", "Subscription is restored successfully"]
+		}
+	],
+	"Import": [{
+		"How to import font?": ["Open any template or a logo", "Tap on the text you wish to edit", "Tap on edit option", "Tap on the font at the bottom bar", "Tap import option on the left", "Click browse", "Select any font"]
+	}, {
+		"How to import a logo?": ["Open any template", "Tap logo on the bottom bar", "Tap import on the top-right corner", "Select any logo."]
+	}, {
+		"How to import overlay?": ["Open any template", "Tap on the logo", "Click edit", "Tap on the overlay icon", "Click import", "Select any overlay"]
+	}, {
+		"How to import background?": ["Open any template or logo", "Tap on the background icon", "Tap import", "Select any background", "Tap on done"]
+	}],
+	"General Questions": [{
+		"How to give us a rating?": ["Open the logo maker app", "Tap the left menu icon on the top-left", "Tap on rate us", "Confirm your Apple ID and password", "Tap the starts to rate us"]
+	}, {
+		"How to reach our support team?": ["Open the logo maker app", "Tap the left menu icon on the top-left", "Tap on support option", "Enter your query in the premade email", "Tap the send icon"]
+	}, {
+		"How to change language of the app?": ["Open the logo maker", "Tap the left menu icon on the top-left", "Tap on language option", "Select any language from the list"]
+	}, {
+		"How to follow us on Facebook and Instagram for new updates?": ["Open the logo maker app", "Tap the left menu icon on the top-left", "Tap Facebook or Instagram on the bottom bar and follow us"]
+	}]
+}

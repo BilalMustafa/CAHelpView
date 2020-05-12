@@ -1,0 +1,6 @@
+framework module Pods_CAHelpView {
+  umbrella header "Pods-CAHelpView-umbrella.h"
+
+  export *
+  module * { export * }
+}
