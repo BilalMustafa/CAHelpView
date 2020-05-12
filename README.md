@@ -1,29 +1,24 @@
-# README #
+# CAHelpView
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Example
 
-### What is this repository for? ###
+To run the example project, clone the repo, replace the base url in podfile with your account url and run `pod install` from the Example directory first.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Requirements
 
-### How do I get set up? ###
+## Installation
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+CAHelpView is available through Content Arcade Bitbucket. To install
+it, simply add the following line to your Podfile by replacinig the base url with your account url:
 
-### Contribution guidelines ###
+```ruby
+pod 'CAHelpView', :git => 'https://bilalm211@bitbucket.org/contentarcadeios/cahelpview.git'
+```
 
-* Writing tests
-* Code review
-* Other guidelines
+## Author
 
-### Who do I talk to? ###
+Bilal Mustafa, bilalatcontentarcade@gmail.com
 
-* Repo owner or admin
-* Other community or team contact
+## License
+
+CAHelpView is available under the MIT license. See the LICENSE file for more info.
