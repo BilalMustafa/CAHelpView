@@ -10,9 +10,6 @@ import UIKit
 
 public class CAHelpViewController: UIViewController {
     
-    
-   
-    
     //MARK:- Instance Variable
     
    private var help: Help?
@@ -39,7 +36,7 @@ public class CAHelpViewController: UIViewController {
         if #available(iOS 13.0, *) {
             // Do nothing
         } else {
-            self.navigationItem.addLeftBarButtonItemWithImage(#imageLiteral(resourceName: "cacross.png"), target: self, action: #selector(self.backPressed))
+            self.navigationItem.addLeftBarButtonItemWithImage(#imageLiteral(resourceName: "ca_cross"), target: self, action: #selector(self.backPressed))
         }
     }
     

@@ -18,8 +18,8 @@
 		16CC1FBD246A775D0099FC57 /* CAHelpDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16CC1FBC246A775D0099FC57 /* CAHelpDetailViewController.swift */; };
 		16CC1FC2246A78200099FC57 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16CC1FBF246A78200099FC57 /* Constants.swift */; };
 		16CC1FC3246A78200099FC57 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16CC1FC1246A78200099FC57 /* Utils.swift */; };
-		16F53C65246ABD2E00D6B716 /* cacross.png in Resources */ = {isa = PBXBuildFile; fileRef = 16F53C64246ABD2E00D6B716 /* cacross.png */; };
 		16F53C68246ABE1C00D6B716 /* NavigationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F53C67246ABE1C00D6B716 /* NavigationItem.swift */; };
+		16F53C6A246BB7A000D6B716 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16F53C69246BB7A000D6B716 /* Images.xcassets */; };
 		D39DCF1D0AE16AF6A948E87C /* Pods_CAHelpView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB4F9EEC3B6D286B43758157 /* Pods_CAHelpView.framework */; };
 /* End PBXBuildFile section */
 
@@ -38,8 +38,8 @@
 		16CC1FBC246A775D0099FC57 /* CAHelpDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CAHelpDetailViewController.swift; sourceTree = "<group>"; };
 		16CC1FBF246A78200099FC57 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		16CC1FC1246A78200099FC57 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
-		16F53C64246ABD2E00D6B716 /* cacross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cacross.png; sourceTree = "<group>"; };
 		16F53C67246ABE1C00D6B716 /* NavigationItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationItem.swift; sourceTree = "<group>"; };
+		16F53C69246BB7A000D6B716 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		AD35029B375567155F13E051 /* Pods-CAHelpView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CAHelpView.release.xcconfig"; path = "Target Support Files/Pods-CAHelpView/Pods-CAHelpView.release.xcconfig"; sourceTree = "<group>"; };
 		BB4F9EEC3B6D286B43758157 /* Pods_CAHelpView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CAHelpView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -120,7 +120,7 @@
 		162A315724654F2A006A8DA1 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				16F53C64246ABD2E00D6B716 /* cacross.png */,
+				16F53C69246BB7A000D6B716 /* Images.xcassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -239,7 +239,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				16F53C65246ABD2E00D6B716 /* cacross.png in Resources */,
+				16F53C6A246BB7A000D6B716 /* Images.xcassets in Resources */,
 				162A315A24654F97006A8DA1 /* CAHelpView.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
