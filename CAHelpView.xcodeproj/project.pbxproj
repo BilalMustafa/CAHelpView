@@ -20,6 +20,7 @@
 		16CC1FC3246A78200099FC57 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16CC1FC1246A78200099FC57 /* Utils.swift */; };
 		16F53C68246ABE1C00D6B716 /* NavigationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F53C67246ABE1C00D6B716 /* NavigationItem.swift */; };
 		16F53C6A246BB7A000D6B716 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16F53C69246BB7A000D6B716 /* Images.xcassets */; };
+		16F53C6C246BBEBF00D6B716 /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F53C6B246BBEBF00D6B716 /* UIImage.swift */; };
 		D39DCF1D0AE16AF6A948E87C /* Pods_CAHelpView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB4F9EEC3B6D286B43758157 /* Pods_CAHelpView.framework */; };
 /* End PBXBuildFile section */
 
@@ -40,6 +41,7 @@
 		16CC1FC1246A78200099FC57 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		16F53C67246ABE1C00D6B716 /* NavigationItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationItem.swift; sourceTree = "<group>"; };
 		16F53C69246BB7A000D6B716 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		16F53C6B246BBEBF00D6B716 /* UIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImage.swift; sourceTree = "<group>"; };
 		AD35029B375567155F13E051 /* Pods-CAHelpView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CAHelpView.release.xcconfig"; path = "Target Support Files/Pods-CAHelpView/Pods-CAHelpView.release.xcconfig"; sourceTree = "<group>"; };
 		BB4F9EEC3B6D286B43758157 /* Pods_CAHelpView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CAHelpView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -156,6 +158,7 @@
 			isa = PBXGroup;
 			children = (
 				16F53C67246ABE1C00D6B716 /* NavigationItem.swift */,
+				16F53C6B246BBEBF00D6B716 /* UIImage.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				162A315C24654FF2006A8DA1 /* CAHelpViewController.swift in Sources */,
+				16F53C6C246BBEBF00D6B716 /* UIImage.swift in Sources */,
 				160DC15A2469278F00F25E98 /* CAHelpViewDataSource.swift in Sources */,
 				16CC1FC3246A78200099FC57 /* Utils.swift in Sources */,
 				160DC15C24692D0900F25E98 /* HelpCell.swift in Sources */,

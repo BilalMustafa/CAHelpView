@@ -36,7 +36,7 @@ public class CAHelpViewController: UIViewController {
         if #available(iOS 13.0, *) {
             // Do nothing
         } else {
-            self.navigationItem.addLeftBarButtonItemWithImage(#imageLiteral(resourceName: "ca_cross"), target: self, action: #selector(self.backPressed))
+            self.navigationItem.addLeftBarButtonItemWithImage(UIImage(namedInCAHelpView: "ca_cross")!, target: self, action: #selector(self.backPressed))
         }
     }
     
