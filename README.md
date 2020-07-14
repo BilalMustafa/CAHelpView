@@ -8,11 +8,11 @@ To run the example project, clone the repo, replace the base url in podfile with
 
 ## Installation
 
-CAHelpView is available through Content Arcade Bitbucket. To install
+CAHelpView is available through Cocoapods. To install
 it, simply add the following line to your Podfile by replacinig the base url with your account url:
 
 ```ruby
-pod 'CAHelpView', :git => 'https://bilalm211@bitbucket.org/contentarcadeios/cahelpview.git'
+pod 'CAHelpView'
 ```
 
 ## Author
